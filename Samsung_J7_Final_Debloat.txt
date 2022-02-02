@@ -1,0 +1,4 @@
+# Preset was created in ADB AppControl 1.7.3
+# Total applications: 0
+# 2/1/2022 8:55 PM
+# Samsung SM-J710F Deleted applications
