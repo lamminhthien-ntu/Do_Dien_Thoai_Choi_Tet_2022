@@ -1,6 +1,6 @@
 # Preset was created in ADB AppControl 1.7.3
-# Total applications: 209
-# 2/2/2022 11:12 AM
+# Total applications: 215
+# 2/2/2022 11:49 AM
 # Samsung SM-A315G Deleted applications
 com.sec.hearingadjust
 com.google.android.ext.shared
@@ -13,6 +13,7 @@ com.samsung.android.tapack.authfw
 com.sec.android.provider.badge
 com.android.dreams.basic
 com.sec.android.app.bluetoothtest
+com.android.bookmarkprovider
 com.samsung.android.brightnessbackupservice
 com.sec.factory.cameralyzer
 com.android.carrierdefaultapp
@@ -193,18 +194,23 @@ com.sec.factory.camera
 com.sec.android.widgetapp.easymodecontactswidget
 com.samsung.android.sdk.handwriting
 com.sec.android.app.hwmoduletest
+com.android.statementservice
 com.google.android.feedback
+com.android.theme.font.notoserifsource
 com.sec.vsim.ericssonnsds.webapp
+com.android.pacprocessor
 com.sec.android.app.personalization
 com.samsung.rcs
 com.sec.app.RilErrorNotifier
 com.samsung.safetyinformation
 com.samsung.SMT
+com.android.se
 com.sec.android.app.safetyassurance
 com.samsung.android.setting.multisound
 com.samsung.android.shortcutbackupservice
-com.sec.android.soagent
 com.wssyncmldm
+com.sec.android.soagent
+com.android.apps.tag
 com.samsung.android.app.taskedge
 com.sec.android.app.quicktool
 com.sec.android.widgetapp.webmanual
