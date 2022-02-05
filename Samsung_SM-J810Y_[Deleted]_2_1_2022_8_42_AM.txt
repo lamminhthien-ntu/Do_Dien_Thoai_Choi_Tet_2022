@@ -149,3 +149,6 @@ com.samsung.android.app.watchmanagerstub
 com.sec.unifiedwfc
 com.samsung.android.allshare.service.fileshare
 com.sec.android.app.wlantest
+com.debug.loggerui
+com.osp.app.signin
+com.samsung.knox.securefolder
